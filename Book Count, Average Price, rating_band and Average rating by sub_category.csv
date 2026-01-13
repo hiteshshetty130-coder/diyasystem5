@@ -1,0 +1,51 @@
+﻿sub_category,category,Book Count,Average Price,rating_band,Average rating
+Academic,Books,1,17.3184,Medium Rating,2
+Add a comment,Books,67,47.25127164179106,Medium Rating,2.7611940298507465
+Adult Fiction,Books,1,20.2752,High Rating,5
+Art,Books,8,50.8464,High Rating,3.625
+Autobiography,Books,9,48.91040000000001,Medium Rating,3
+Biography,Books,5,44.43384,Medium Rating,2.2
+Business,Books,12,42.84720000000001,Medium Rating,2.9166666666666665
+Childrens,Books,29,43.08252413793103,Medium Rating,2.6206896551724137
+Christian,Books,3,56.0956,Medium Rating,2.6666666666666665
+Christian Fiction,Books,6,45.388200000000005,High Rating,4.166666666666667
+Classics,Books,19,48.23974736842106,Medium Rating,2.473684210526316
+Contemporary,Books,3,47.784,Medium Rating,2.3333333333333335
+Crime,Books,1,14.4804,Low Rating,1
+Cultural,Books,1,48.2856,Low Rating,1
+Default,Books,152,45.39836052631576,Medium Rating,2.835526315789474
+Erotica,Books,1,25.3308,High Rating,5
+Fantasy,Books,48,52.264025,Medium Rating,3.0833333333333335
+Fiction,Books,65,47.60793230769231,Medium Rating,3.1846153846153844
+Food and Drink,Books,30,41.46736,Medium Rating,2.9
+Health,Books,4,67.9173,High Rating,3.75
+Historical,Books,2,30.135600000000004,Medium Rating,3
+Historical Fiction,Books,26,44.410384615384615,Medium Rating,3.230769230769231
+History,Books,18,49.2294,Medium Rating,2.9444444444444446
+Horror,Books,17,47.45322352941177,Medium Rating,2.7058823529411766
+Humor,Books,10,44.221320000000006,Medium Rating,3.4
+Music,Books,13,47.04073846153847,Medium Rating,3.1538461538461537
+Mystery,Books,32,41.86916249999999,Medium Rating,2.9375
+New Adult,Books,6,61.226,Medium Rating,3.1666666666666665
+Nonfiction,Books,110,45.22344000000001,Medium Rating,2.881818181818182
+Novels,Books,1,72.34920000000001,High Rating,5
+Paranormal,Books,1,20.328,Low Rating,1
+Parenting,Books,1,49.30200000000001,Medium Rating,2
+Philosophy,Books,11,44.296800000000005,Medium Rating,2.3636363636363638
+Poetry,Books,19,47.48595789473685,High Rating,3.526315789473684
+Politics,Books,3,70.76960000000001,Medium Rating,2.3333333333333335
+Psychology,Books,7,45.168514285714295,Low Rating,1.7142857142857142
+Religion,Books,7,42.98862857142857,Medium Rating,3.142857142857143
+Romance,Books,35,44.79250285714286,Medium Rating,2.6285714285714286
+Science,Books,14,43.67691428571429,Medium Rating,2.9285714285714284
+Science Fiction,Books,16,44.61930000000001,Medium Rating,2.25
+Self Help,Books,5,53.61840000000001,Medium Rating,2.6
+Sequential Art,Books,75,45.635392,Medium Rating,2.973333333333333
+Short Stories,Books,1,47.3616,Low Rating,1
+Spirituality,Books,6,46.3298,Medium Rating,3.3333333333333335
+Sports and Games,Books,5,54.33912,Medium Rating,3
+Suspense,Books,1,76.9956,Medium Rating,3
+Thriller,Books,11,41.4924,Medium Rating,2.727272727272727
+Travel,Books,11,52.5288,Medium Rating,2.727272727272727
+Womens Fiction,Books,17,48.56435294117647,Medium Rating,3.1176470588235294
+Young Adult,Books,54,46.79277777777775,Medium Rating,3.2962962962962963
